@@ -1,3 +1,11 @@
+# Scraping et parsing web
 requests>=2.31.0
 beautifulsoup4>=4.12.0
 lxml>=4.9.0
+
+# Traitement des données et JSON
+# (json est inclus dans la librairie standard Python)
+
+# Note: Ollama doit être installé séparément
+# Voir: https://ollama.ai pour l'installation
+# Modèle requis: adrienbrault/nous-hermes2pro:Q3_K_M
