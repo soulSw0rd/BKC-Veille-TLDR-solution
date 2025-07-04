@@ -260,7 +260,7 @@ Les résumés sont générés en streaming pour une réactivité optimale :
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence GNU. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## Avertissements
 
